@@ -32,7 +32,7 @@ app.use(
     credentials: true,
     origin: [
       "http://localhost:5173",
-      "https://typeit-blogapp-frontend.onrender.com",
+      "https://type-it-blog-app.vercel.app",
     ],
   })
 );
